@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 class MeineKlasse:
     def __init__(self):
@@ -19,3 +20,5 @@ objekt = MeineKlasse()
 objekt.berechne()
 
 print(str(objekt))
+=======
+>>>>>>> parent of 1e8c206... Die Inhalte
