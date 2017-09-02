@@ -10,6 +10,9 @@ class MeineKlasse:
         self.attribut = 5
         return self.attribut**2
         
+    def ziehe(self):
+        self.attribut = 6
+        
         
 objekt = MeineKlasse()
 
